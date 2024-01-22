@@ -1,37 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.wfls2thu.top/</loc>
+         <loc>https://docs.wfls2thu.top/site/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.wfls2thu.top/thu/</loc>
+         <loc>https://docs.wfls2thu.top/site/majors/math/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.wfls2thu.top/thu/majors/cs/</loc>
+         <loc>https://docs.wfls2thu.top/site/majors/cs/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.wfls2thu.top/thu/majors/math/</loc>
+         <loc>https://docs.wfls2thu.top/site/majors/dfll/english/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.wfls2thu.top/thu/majors/dfll/english/</loc>
+         <loc>https://docs.wfls2thu.top/site/majors/dfll/iwlc/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.wfls2thu.top/thu/majors/dfll/iwlc/</loc>
-         <lastmod>2024-01-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.wfls2thu.top/thu/majors/dfll/japanese/</loc>
+         <loc>https://docs.wfls2thu.top/site/majors/dfll/japanese/</loc>
          <lastmod>2024-01-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
