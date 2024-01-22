@@ -7,12 +7,12 @@ theme:
 nav:
   - '概览': index.md
   - '专业介绍':
-    - '概览': majors\index.md
-    - '计算机科学与技术系': majors\cs\index.md
-    - '数学科学系': majors\math.md
+    - '概览': majors/index.md
+    - '计算机科学与技术系': majors/cs/cs.md
+    - '数学科学系': majors/math/math.md
     - '外国语言文学系':
-      - '日语': majors\dfll\japanese.md
-      - '英语': majors\dfll\english.md
-      - '世界文学与文化实验班': majors\dfll\iwlc.md
+      - '日语': majors/dfll/japanese.md
+      - '英语': majors/dfll/english.md
+      - '世界文学与文化实验班': majors/dfll/iwlc.md
     # - '未央书院':
     # - '探微书院':
