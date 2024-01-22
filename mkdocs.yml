@@ -1,0 +1,19 @@
+site_name: '从这里走向世界和未来'
+site_url: https://docs.wfls2thu.top/
+
+theme:
+  name: material
+
+nav:
+  - '清华大学':
+    - '概览': thu\index.md
+    - '专业介绍':
+      - '概览': thu\majors\index.md
+      - '计算机系': thu\majors\cs.md
+      - '数学系': thu\majors\math.md
+      - '外文系':
+        - '日语': thu\majors\dfll\japanese.md
+        - '英语': thu\majors\dfll\english.md
+        - '世界文学与文化实验班': thu\majors\dfll\iwlc.md
+      # - '未央书院':
+      # - '探微书院':
